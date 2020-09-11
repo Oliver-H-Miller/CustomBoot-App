@@ -5,6 +5,12 @@ Any help greatly appreciated.<BR>
 
 <br>
 
+<h1>Open Source &amp; GitHub</h1>
+This app was originally closed source, however, I am working on making this app open source.
+
+<br>
+
+
 <h1>Contact Me</h1>
 <b>Email:</b> miller[d0t]oliver[at]icloud[dot]com<br>
 <b>Website:</b> https://www.olivermillers.website

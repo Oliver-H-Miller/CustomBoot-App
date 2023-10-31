@@ -4,9 +4,7 @@ Any help greatly appreciated.<BR>
 <b>Play Store Link:</b> https://play.google.com/store/apps/details?id=website.olivermillers.customboot2
 
 <br>
-
-<img src="/screenshot.png">
-
+<img width=200 src="/screenshot.png">
 <br>
 
 <h1>Open Source &amp; GitHub</h1>
@@ -16,7 +14,15 @@ This app was originally closed source, however, I am working on making this app 
 
 <h1>Current Status</h1>
 App is currently undergoing maintenance and is unlisted from the Play Store.
+<br>
 
+<p float="left">
+  <img width=200 src="a.webp">
+  <img width=200 src="b.webp">
+  <img width=200 src="c.webp">
+</p>
+
+<br>
 <h1>Contact Me</h1>
 <b>Email:</b> miller[d0t]oliver[at]icloud[dot]com<br>
 <b>Website:</b> https://www.olivermillers.website

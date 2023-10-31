@@ -5,11 +5,17 @@ Any help greatly appreciated.<BR>
 
 <br>
 
+<img src="/screenshot.png">
+
+<br>
+
 <h1>Open Source &amp; GitHub</h1>
 This app was originally closed source, however, I am working on making this app open source.
 
 <br>
 
+<h1>Current Status</h1>
+App is currently undergoing maintenance and is unlisted from the Play Store.
 
 <h1>Contact Me</h1>
 <b>Email:</b> miller[d0t]oliver[at]icloud[dot]com<br>
